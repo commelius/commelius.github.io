@@ -3358,9 +3358,6 @@ html.trickle body {
 .inspector-id {
   color: #3cf;
 }
-.simple-branching-hidden {
-  display: none !important;
-}
 .accordion-component .accordion-item {
   margin-bottom: 5px;
 }

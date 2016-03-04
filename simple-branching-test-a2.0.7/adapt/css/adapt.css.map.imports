@@ -21,7 +21,6 @@
 @import 'src\extensions\adapt-contrib-resources\less\resources.less';
 @import 'src\extensions\adapt-contrib-trickle\less\trickle.less';
 @import 'src\extensions\adapt-inspector\less\inspector.less';
-@import 'src\extensions\adapt-simple-branching\less\simple-branching.less';
 @import 'src\theme\adapt-contrib-vanilla\less\colors.less';
 @import 'src\theme\adapt-contrib-vanilla\less\fonts.less';
 @import 'src\theme\adapt-contrib-vanilla\less\generic.less';
